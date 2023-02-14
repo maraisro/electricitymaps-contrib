@@ -9,6 +9,8 @@ capacity:
   hydro storage: 2724
   nuclear: 1860
   oil: 2409
+  solar: 2287
+  wind: 3442
 contributors:
   - IV1T3
 emissionFactors:
